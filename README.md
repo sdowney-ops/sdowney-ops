@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Shelby Downey 👋
 
-<!--
-**sdowney-ops/sdowney-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Operations Manager · PMP-Certified · Chief of Staff / Director of Operations Candidate**
 
-Here are some ideas to get you started:
+I build the systems that keep organizations running: SOPs, vendor management frameworks, cross-functional project coordination, and full-scale event execution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+- Design and implement company-wide SOPs and compliance frameworks
+- Manage vendor relationships and cross-office logistics
+- Plan and execute corporate events ($8.5K–$250K budgets, up to 100+ attendees)
+- Bilingual (English/Spanish) operations and stakeholder communication
+
+## Background
+10+ years in operations across wealth management and legal/regulatory environments. PMP-certified. Currently building Shelby Mariee & Co., an event planning practice.
+
+## Let's connect
+📧 downey.shelby5@gmail.com  
+💼 [linkedin.com/in/shelby-downey-800801293](https://www.linkedin.com/in/shelby-downey-800801293/)
